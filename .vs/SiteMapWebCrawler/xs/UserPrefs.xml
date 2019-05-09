@@ -3,18 +3,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MBookLibrary" expanded="True">
-            <Node name="MBookLibrary.Business" expanded="True" />
-            <Node name="MBookLibrary.Service" expanded="True">
-              <Node name="Startup.cs" selected="True" />
-            </Node>
-            <Node name="MBookLibrary.Service.Test" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-            </Node>
+          <Node name="SiteMapWebCrawler" expanded="True">
+            <Node name="SiteMapWebCrawler.API" selected="True" />
           </Node>
-          <Node name="SiteMapWebCrawler" expanded="True" />
         </State>
       </Pad>
     </Pads>
