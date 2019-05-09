@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteMapWebCrawler.API", "SiteMapWebCrawler\SiteMapWebCrawler.API.csproj", "{100027AB-C920-46F4-B63C-6B335FA57931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteMapWebCrawler.Service", "SiteMapWebCrawler.Service\SiteMapWebCrawler.Service.csproj", "{3A3A542E-BBCB-49CB-A64A-465CCBFA50B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteMapWebCrawler.Common", "SiteMapWebCrawler.Common\SiteMapWebCrawler.Common.csproj", "{89575DC6-0DE0-4409-8477-A2733A8E2DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteMapWebCrawler.API.Test", "SiteMapWebCrawler.API.Test\SiteMapWebCrawler.API.Test.csproj", "{89668A63-14CF-4297-A0B0-B937DE9EAF84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100027AB-C920-46F4-B63C-6B335FA57931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100027AB-C920-46F4-B63C-6B335FA57931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100027AB-C920-46F4-B63C-6B335FA57931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100027AB-C920-46F4-B63C-6B335FA57931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3A542E-BBCB-49CB-A64A-465CCBFA50B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3A542E-BBCB-49CB-A64A-465CCBFA50B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3A542E-BBCB-49CB-A64A-465CCBFA50B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3A542E-BBCB-49CB-A64A-465CCBFA50B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89575DC6-0DE0-4409-8477-A2733A8E2DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89575DC6-0DE0-4409-8477-A2733A8E2DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89575DC6-0DE0-4409-8477-A2733A8E2DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89575DC6-0DE0-4409-8477-A2733A8E2DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89668A63-14CF-4297-A0B0-B937DE9EAF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89668A63-14CF-4297-A0B0-B937DE9EAF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89668A63-14CF-4297-A0B0-B937DE9EAF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89668A63-14CF-4297-A0B0-B937DE9EAF84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

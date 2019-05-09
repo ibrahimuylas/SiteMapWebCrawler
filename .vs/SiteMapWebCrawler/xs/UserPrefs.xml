@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{100027AB-C920-46F4-B63C-6B335FA57931}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MBookLibrary" expanded="True">
+            <Node name="MBookLibrary.Business" expanded="True" />
+            <Node name="MBookLibrary.Service" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+            <Node name="MBookLibrary.Service.Test" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="SiteMapWebCrawler" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SiteMapWebCrawler.API PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
